@@ -9,7 +9,8 @@ body {
 }
 
 .container {
-    max-width: 95vw; /* Tüm içeriğin de genişlemesini sağlar */    margin: 0 auto;
+    max-width: 100%;
+    margin: 0 auto;
     padding: 20px;
 }
 
@@ -428,6 +429,7 @@ footer p {
         background-color: rgba(255, 255, 255, 0.2);
     }
 }
+
 
 
 
