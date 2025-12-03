@@ -35,8 +35,6 @@ body {
 
 .hero-section {
         max-height: 90vh;
-        max-width: 90%;
-
         overflow: hidden;
         display: flex;
         align-items: center;
