@@ -34,7 +34,7 @@ body {
 }
 
 .hero-section {
-        max-height: 50vh;
+        max-height: 500vh;
         overflow: hidden; 
         display: flex;
         align-items: center;
@@ -429,6 +429,7 @@ footer p {
         background-color: rgba(255, 255, 255, 0.2);
     }
 }
+
 
 
 
