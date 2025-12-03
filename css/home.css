@@ -34,17 +34,13 @@ body {
 }
 
 .hero-section {
-        width: 100%;
-        text-align: center;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-bottom: 30px;
-    }
+    text-align: center;
+    margin-bottom: 30px;
+}
 
 .responsive-img {
-    max-height: 70vh;
-    object-fit: contain; 
+    max-width: 80%;
+    height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -429,6 +425,7 @@ footer p {
         background-color: rgba(255, 255, 255, 0.2);
     }
 }
+
 
 
 
