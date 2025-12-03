@@ -19,7 +19,6 @@ body {
 /* Header */
 .main-header {
     text-align: center;
-    padding: 30px 20px;
     background-color: #fff;
     border-bottom: 1px solid #eee;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
@@ -162,4 +161,5 @@ footer .social-media a:hover {
     .main-nav {
         font-size: 0.9em;
     }
+
 }
