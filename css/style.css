@@ -71,10 +71,10 @@ body {
 .social-icons {
     position: absolute;
     top: 20px;
-    right: 30px;
+    right: 45px;
     display: flex;
     justify-content: flex-end;
-    gap: 50px;
+    gap: 30px;
 }
 
 /* İkonlar */
@@ -164,6 +164,7 @@ footer .social-media a:hover {
     }
 
 }
+
 
 
 
