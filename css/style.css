@@ -71,7 +71,7 @@ body {
 .social-icons {
     position: absolute;
     top: 20px;
-    right: 60px;
+    right: 30px;
     display: flex;
     justify-content: flex-end;
     gap: 35px;
@@ -163,3 +163,4 @@ footer .social-media a:hover {
     }
 
 }
+
